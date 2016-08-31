@@ -1,0 +1,17 @@
+.reactphonefield-component {
+  border: 1px dashed #f00;
+}
+.react-tel-input input[type=tel], .react-tel-input input[type=text]{
+  box-shadow: none;
+  margin-top: 14px!important;
+}
+.react-tel-input .flag-dropdown{
+  bottom: 8px;
+  top: inherit;
+}
+.react-tel-input .selected-flag{
+  min-height: 100%;
+}
+.react-tel-input .country-list{
+  top: 100%;
+}
